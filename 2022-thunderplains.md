@@ -13,3 +13,4 @@
 * Creating customer portals the easy way in HubSpot - Michelle Tabor
 * Natasha Martin
 * End to end testing in react native with detox - Sam Delgado
+* TailwindCSS, a Love Story - Grant Vinson
