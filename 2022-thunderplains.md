@@ -17,3 +17,4 @@
 * Michelle Tabor - Creating customer portals the easy way in HubSpot
 * Natasha Martin - TBD
 * Sam Delgado - End to end testing in react native with detox
+* Gene Pool - Fast and Somewhat Easy REST API with Java
