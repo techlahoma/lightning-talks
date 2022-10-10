@@ -15,6 +15,6 @@
 * Karina Burns - Productivity using the Pomodoro method
 * Kerry Severin - Creative problem-solving or Wordpress to Gatsbyjs
 * Michelle Tabor - Creating customer portals the easy way in HubSpot
-* Natasha Martin - TBD
+* Natasha Martin - What the Heck is Marketing Doing Here
 * Sam Delgado - End to end testing in react native with detox
 * Gene Pool - Fast and Somewhat Easy REST API with Java
