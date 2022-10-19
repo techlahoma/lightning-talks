@@ -6,6 +6,8 @@
 
 ### If you're planning to give a lightning talk at ThunderPlains 2022, please add your talk title and your name to this list. Feel free to link your talk title to your slides and your name to your LinkedIn or other profile!
 
+#### These are in order by first name to match Slack, not the order that the talks will be presented.
+
 1. Adrian Townsend - Designer/Developer Collaboration
 2. Ashley Clayton - Measurement planning for GA4
 3. Gene Pool - Fast and Somewhat Easy REST API with Java
