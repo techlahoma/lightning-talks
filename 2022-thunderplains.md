@@ -18,6 +18,5 @@
 8. Jordan Brennan - TAC: A new CSS methodology for the Custom Elements era
 9. Karina Burns - Productivity using the Pomodoro method
 10. Kerry Severin - Creative problem-solving or Wordpress to Gatsbyjs
-11. Michelle Tabor - Creating customer portals the easy way in HubSpot
-12. Natasha Martin - What the Heck is Marketing Doing Here
-13. Sam Delgado - End to end testing in react native with detox
+11. Natasha Martin - What the Heck is Marketing Doing Here
+12. Sam Delgado - End to end testing in react native with detox
