@@ -1,4 +1,4 @@
-# Below is a list to of links to great lightning talks from Techlahoma!
+# Below is a List of Links to Great Lightning Talks from Techlahoma!
 
 <ul>
     <li><a href="https://youtu.be/NDN8sSV61jQ">Promoting Women and Diversity in Tech</a></li>
