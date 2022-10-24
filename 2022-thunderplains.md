@@ -10,7 +10,7 @@
 
 1. Adrian Townsend - Designer/Developer Collaboration
 2. Ashley Clayton - Measurement planning for GA4
-3. Gene Pool - Fast and Somewhat Easy REST API with Java
+3. Gene Pool - [Fast and Somewhat Easy REST API with Java](https://ln5.sync.com/dl/49c1e17c0/wx3hjr59-9bbyrnyc-pp597hrb-vsk2ea8m)
 4. Grant Vinson - TailwindCSS, a Love Story
 5. Heather Huskinson - Backstage
 6. Jason Smedley - IPFS: What's a CID?
