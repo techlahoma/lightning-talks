@@ -12,7 +12,7 @@
 2. Ashley Clayton - Measurement planning for GA4
 3. Gene Pool - [Fast and Somewhat Easy REST API with Java](https://ln5.sync.com/dl/49c1e17c0/wx3hjr59-9bbyrnyc-pp597hrb-vsk2ea8m)
 4. Grant Vinson - TailwindCSS, a Love Story
-5. Heather Huskinson - Backstage
+5. Heather Huskinson - [Backstage](https://docs.google.com/presentation/d/1qneOPYDzzh3hLcdahE0-Rt5FuPU_oyrYVREorZhE8PE/edit?usp=sharing)
 6. Jason Smedley - IPFS: What's a CID?
 7. Jeff French - Observability for Node and SPA apps
 8. Jordan Brennan - TAC: A new CSS methodology for the Custom Elements era
