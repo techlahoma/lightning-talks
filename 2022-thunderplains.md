@@ -14,7 +14,7 @@
 4. Grant Vinson - TailwindCSS, a Love Story
 5. Heather Huskinson - [Backstage](https://docs.google.com/presentation/d/1qneOPYDzzh3hLcdahE0-Rt5FuPU_oyrYVREorZhE8PE/edit?usp=sharing)
 6. Jason Smedley - IPFS: What's a CID?
-7. Jeff French - Observability for Node and SPA apps
+7. Jeff French - [Observability with OpenTelemetry](https://docs.google.com/presentation/d/1FKSBoQ2cKbmZzvohLN--pXRvfMWGODFgkwFUkxPbZdM/edit?usp=sharing)
 8. Jordan Brennan - TAC: A new CSS methodology for the Custom Elements era
 9. Karina Burns - Productivity using the Pomodoro method
 10. Kerry Severin - Creative Problem Solving
